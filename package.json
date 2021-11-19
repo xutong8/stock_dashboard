@@ -1,6 +1,6 @@
 {
-  "homepage": "https://wksung-portfolio.github.io/react-stock-dashboard",
-  "name": "react-stock-dashboard",
+  "homepage": "https://github.com/xutong8/stock_dashboard",
+  "name": "stock-dashboard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

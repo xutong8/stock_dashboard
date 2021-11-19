@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-stock-dashboard/static/css/main.a635ad5f.chunk.css",
-    "main.js": "/react-stock-dashboard/static/js/main.07a702a5.chunk.js",
-    "main.js.map": "/react-stock-dashboard/static/js/main.07a702a5.chunk.js.map",
-    "runtime-main.js": "/react-stock-dashboard/static/js/runtime-main.fe336cd6.js",
-    "runtime-main.js.map": "/react-stock-dashboard/static/js/runtime-main.fe336cd6.js.map",
-    "static/js/2.dc1d2afb.chunk.js": "/react-stock-dashboard/static/js/2.dc1d2afb.chunk.js",
-    "static/js/2.dc1d2afb.chunk.js.map": "/react-stock-dashboard/static/js/2.dc1d2afb.chunk.js.map",
-    "index.html": "/react-stock-dashboard/index.html",
-    "precache-manifest.31226aa6cde5be386d579779e6eff553.js": "/react-stock-dashboard/precache-manifest.31226aa6cde5be386d579779e6eff553.js",
-    "service-worker.js": "/react-stock-dashboard/service-worker.js",
-    "static/css/main.a635ad5f.chunk.css.map": "/react-stock-dashboard/static/css/main.a635ad5f.chunk.css.map",
-    "static/js/2.dc1d2afb.chunk.js.LICENSE.txt": "/react-stock-dashboard/static/js/2.dc1d2afb.chunk.js.LICENSE.txt"
+    "main.css": "/xutong8/stock_dashboard/static/css/main.a635ad5f.chunk.css",
+    "main.js": "/xutong8/stock_dashboard/static/js/main.21fa25cd.chunk.js",
+    "main.js.map": "/xutong8/stock_dashboard/static/js/main.21fa25cd.chunk.js.map",
+    "runtime-main.js": "/xutong8/stock_dashboard/static/js/runtime-main.a3cd18a6.js",
+    "runtime-main.js.map": "/xutong8/stock_dashboard/static/js/runtime-main.a3cd18a6.js.map",
+    "static/js/2.501bb5e6.chunk.js": "/xutong8/stock_dashboard/static/js/2.501bb5e6.chunk.js",
+    "static/js/2.501bb5e6.chunk.js.map": "/xutong8/stock_dashboard/static/js/2.501bb5e6.chunk.js.map",
+    "index.html": "/xutong8/stock_dashboard/index.html",
+    "precache-manifest.78643591c169e5ca38a99bdda5b80129.js": "/xutong8/stock_dashboard/precache-manifest.78643591c169e5ca38a99bdda5b80129.js",
+    "service-worker.js": "/xutong8/stock_dashboard/service-worker.js",
+    "static/css/main.a635ad5f.chunk.css.map": "/xutong8/stock_dashboard/static/css/main.a635ad5f.chunk.css.map",
+    "static/js/2.501bb5e6.chunk.js.LICENSE.txt": "/xutong8/stock_dashboard/static/js/2.501bb5e6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe336cd6.js",
-    "static/js/2.dc1d2afb.chunk.js",
+    "static/js/runtime-main.a3cd18a6.js",
+    "static/js/2.501bb5e6.chunk.js",
     "static/css/main.a635ad5f.chunk.css",
-    "static/js/main.07a702a5.chunk.js"
+    "static/js/main.21fa25cd.chunk.js"
   ]
 }
