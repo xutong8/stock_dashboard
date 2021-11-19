@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/xutong8/stock_dashboard",
+  "homepage": "./stock_dashboard",
   "name": "stock-dashboard",
   "version": "0.1.0",
   "private": true,
