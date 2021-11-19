@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./stock_dashboard/static/css/main.a635ad5f.chunk.css",
-    "main.js": "./stock_dashboard/static/js/main.21fa25cd.chunk.js",
-    "main.js.map": "./stock_dashboard/static/js/main.21fa25cd.chunk.js.map",
-    "runtime-main.js": "./stock_dashboard/static/js/runtime-main.c5c04795.js",
-    "runtime-main.js.map": "./stock_dashboard/static/js/runtime-main.c5c04795.js.map",
-    "static/js/2.501bb5e6.chunk.js": "./stock_dashboard/static/js/2.501bb5e6.chunk.js",
-    "static/js/2.501bb5e6.chunk.js.map": "./stock_dashboard/static/js/2.501bb5e6.chunk.js.map",
-    "index.html": "./stock_dashboard/index.html",
-    "precache-manifest.ef80da92fbd5a412f12a1fe16fd6a5ad.js": "./stock_dashboard/precache-manifest.ef80da92fbd5a412f12a1fe16fd6a5ad.js",
-    "service-worker.js": "./stock_dashboard/service-worker.js",
-    "static/css/main.a635ad5f.chunk.css.map": "./stock_dashboard/static/css/main.a635ad5f.chunk.css.map",
-    "static/js/2.501bb5e6.chunk.js.LICENSE.txt": "./stock_dashboard/static/js/2.501bb5e6.chunk.js.LICENSE.txt"
+    "main.css": "/stock_dashboard/static/css/main.a635ad5f.chunk.css",
+    "main.js": "/stock_dashboard/static/js/main.21fa25cd.chunk.js",
+    "main.js.map": "/stock_dashboard/static/js/main.21fa25cd.chunk.js.map",
+    "runtime-main.js": "/stock_dashboard/static/js/runtime-main.d4a25f10.js",
+    "runtime-main.js.map": "/stock_dashboard/static/js/runtime-main.d4a25f10.js.map",
+    "static/js/2.501bb5e6.chunk.js": "/stock_dashboard/static/js/2.501bb5e6.chunk.js",
+    "static/js/2.501bb5e6.chunk.js.map": "/stock_dashboard/static/js/2.501bb5e6.chunk.js.map",
+    "index.html": "/stock_dashboard/index.html",
+    "precache-manifest.e4fdb108709038567496d6b453977fde.js": "/stock_dashboard/precache-manifest.e4fdb108709038567496d6b453977fde.js",
+    "service-worker.js": "/stock_dashboard/service-worker.js",
+    "static/css/main.a635ad5f.chunk.css.map": "/stock_dashboard/static/css/main.a635ad5f.chunk.css.map",
+    "static/js/2.501bb5e6.chunk.js.LICENSE.txt": "/stock_dashboard/static/js/2.501bb5e6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5c04795.js",
+    "static/js/runtime-main.d4a25f10.js",
     "static/js/2.501bb5e6.chunk.js",
     "static/css/main.a635ad5f.chunk.css",
     "static/js/main.21fa25cd.chunk.js"

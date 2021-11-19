@@ -1,6 +1,6 @@
 {
-  "homepage": "./stock_dashboard",
-  "name": "stock-dashboard",
+  "homepage": "/stock_dashboard",
+  "name": "stock_dashboard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
